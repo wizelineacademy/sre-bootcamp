@@ -117,7 +117,7 @@ curl -H 'Accept: application/json' -H "Authorization: Bearer ${TOKEN}" localhost
 ---
 ## Don’t forget to fill out the Google Form with your forked repository!
 
-Remember, you must send your forked repository by filling our the following **[Google Form](https://forms.gle/rMVZJ8CnxoMaMPzb8)** within **three days of your registration date** to be considered for the Wizeline Academy SRE Bootcamp!
+Remember, you must send your forked repository by filling out the following **[Google Form](https://forms.gle/rMVZJ8CnxoMaMPzb8)** within **three days of your registration date** to be considered for the Wizeline Academy SRE Bootcamp!
 
 Thanks for completing the challenge, we can’t wait to see you soon!
 
