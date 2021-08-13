@@ -17,7 +17,7 @@ You can access this part of the challenge using the following **[link](https://a
 
 
 ### Important Notes:
-- Once you start this part of the challenge, you will have **50 minutes** to complete it within the CodeSignal platform!
+- Once you start this part of the challenge, you will have **1 hour 30 minutes** to complete it within the CodeSignal platform!
 - Make sure before you start, you have the time available to finish it.
 - You **must** complete this part of the challenge before moving on to the second part, detailed below.
 <br />
