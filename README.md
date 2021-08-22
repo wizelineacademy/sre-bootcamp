@@ -49,9 +49,11 @@ You will have a read only database with these access:
 
 |&nbsp;|&nbsp;|
 | -------- | -------------------------- |
+| engine   | `mysql`                    |
 | user     | `secret`                   |
 | password | `noPow3r`                  |
 | endpoint | `bootcamp-tht.sre.wize.mx` |
+| port     | `3306`                     |
 | DB       | `bootcamp_tht`             |
 <br />
 
