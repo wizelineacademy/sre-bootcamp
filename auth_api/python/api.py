@@ -1,6 +1,7 @@
 from flask import Flask
 from flask import jsonify
 from flask import request
+from flask import abort
 from methods import Token, Restricted
 
 app = Flask(__name__)
@@ -28,6 +29,8 @@ def url_login():
     res = {
         "data": login.generate_token(username, password)
     }
+    if not res["data"]:
+        abort(403)
     return jsonify(res)
 
 
@@ -38,6 +41,8 @@ def url_protected():
     res = {
         "data": protected.access_data(auth_token)
     }
+    if not res["data"]:
+        abort(403)
     return jsonify(res)
 
 
