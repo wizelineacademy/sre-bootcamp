@@ -11,6 +11,4 @@ WORKDIR /home/auth_api
 COPY . /home/auth_api
 RUN pip install -r requirements.txt
 
-EXPOSE 8000
-
 ENTRYPOINT python3 api.py
