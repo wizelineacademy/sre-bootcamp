@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  node-app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+
+volumes:
+  node_modules:
