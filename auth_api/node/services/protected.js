@@ -9,7 +9,6 @@ export const protectFunction = (authorization) => {
     }
     return "You are under protected data"
   } catch (error) {
-    console.log(error)
     return null
   }
 }
