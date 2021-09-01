@@ -1,4 +1,6 @@
 FROM python:3-alpine
 
-# Add your instructions to dockerize the application
-# App must run on port 8000
+COPY . app/
+WORKDIR app
+RUN pip3 install -r requirements.txt
+CMD ["python3", "api.py"]
