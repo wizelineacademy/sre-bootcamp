@@ -1,44 +1,28 @@
-# Wizeline SRE Bootcamp Challenge
+# Wizeline SRE Bootcamp Selection Challenge
 
-Thank you for registering for the Wizeline Academy SRE Bootcamp, and welcome to the Technical Challenge!
+Thank you for registering for the Wizeline Academy SRE Bootcamp, and welcome to the Selection Challenge!
 
-In order to be accepted into the Wizeline Academy SRE Bootcamp, you must successfully complete the Technical Challenge, which consists of two parts. After registering, you have **3 days** to complete both parts, detailed below. 
+In order to be accepted into the Wizeline Academy SRE Bootcamp, you must successfully complete the Selection Challenge. After registering, you will have until Tuesday, February 21, to complete it. The sooner you send it, the more chances you have of being selected.
 
 We **do not** want you to think of this as a test or an exam, but instead, more like a project you have been assigned to complete. Communication is important, and we are here to help you if you get stuck or have any concerns - just open an issue in the source repository and our team of SRE experts will get back to you as soon as we can!
 <br />
 <br />
 
 ---
-## Technical Challenge Part 1 - Coding
 
-To give you an opportunity to demonstrate your coding skills, we have designed a challenge for you in **`CodeSignal`**.
+## Technical Challenge - Practical Applications
 
-You can access this part of the challenge using the following **[link](https://app.codesignal.com/public-test/2Lh7cTcj9Y3QGtdp5/btThroTfv5AWpT)**.
-
-
-### Important Notes:
-- Once you start this part of the challenge, you will have **1 hour 30 minutes** to complete it within the CodeSignal platform!
-- Make sure before you start, you have the time available to finish it.
-- You **must** complete this part of the challenge before moving on to the second part, detailed below.
-<br />
-<br />
-
-
----
-## Technical Challenge Part 2 - Practical Applications
-
-For the second part of the challenge, we would like you to fork **[this](https://github.com/wizelineacademy/sre-bootcamp)** repository. This will help us get an understanding of your operational skills, no matter which technology stack is used.
+We would like you to fork **[this](https://github.com/wizelineacademy/sre-bootcamp)** repository. This will help us get an understanding of your operational skills, no matter which technology stack is used.
 
 
 ### Important notes:
-- We expect this part of the challenge to take around **6 hours** to complete. 
-- There is no specific time limitations, so you can go at your own pace, **but please make sure to submit it within three days of registration!**
+- There is no specific time limitations, so you can go at your own pace.
 - Once you have completed this part of the challenge, please fill out the **Google Form** that is mentioned at the bottom of this page with your forked repository.
 
 
 ### Overview
 
-This repository contains an API skeleton where you can add your code, using the language of your preference.
+This repository contains an API skeleton where you can add the code, wich is the auth_api folder. Use the language of your preference.
 
 You need to complete a functionality in our API that provides a basic authentication.
 
@@ -119,7 +103,7 @@ curl -H 'Accept: application/json' -H "Authorization: Bearer ${TOKEN}" localhost
 ---
 ## Don’t forget to fill out the Google Form with your forked repository!
 
-Remember, you must send your forked repository by filling out the following **[Google Form](https://forms.gle/rMVZJ8CnxoMaMPzb8)** within **three days of your registration date** to be considered for the Wizeline Academy SRE Bootcamp!
+Remember, you must send your forked repository by filling out the following **[Google Form](https://forms.gle/AoKSKKdPn8dPRbuv7)** you will have until Tuesday, February 21, to be considered for the Wizeline Academy SRE Bootcamp! (The sooner you send it, the more chances you have of being selected). 
 
 Thanks for completing the challenge, we can’t wait to see you soon!
 
