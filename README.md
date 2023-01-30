@@ -22,7 +22,7 @@ We would like you to fork **[this](https://github.com/wizelineacademy/sre-bootca
 
 ### Overview
 
-This repository contains an API skeleton where you can add the code, wich is the auth_api folder. Use the language of your preference.
+This repository contains an API skeleton where you can add the code, which is the auth_api folder. Use the language of your preference.
 
 You need to complete a functionality in our API that provides a basic authentication.
 
@@ -32,13 +32,13 @@ The API has 2 missing endpoints. The first endpoint receives a username and pass
 You will have a read only database with these access:
 
 |&nbsp;|&nbsp;|
-| -------- | -------------------------- |
-| engine   | `mysql`                    |
-| user     | `secret`                   |
-| password | `noPow3r`                  |
-| endpoint | `bootcamp-tht.sre.wize.mx` |
-| port     | `3306`                     |
-| DB       | `bootcamp_tht`             |
+| -------- | --------------------------                                                          |
+| engine   | `mysql`                                                                             |
+| user     | `secret`                                                                            |
+| password | `jOdznoyH6swQB9sTGdLUeeSrtejWkcw`                                                   |
+| endpoint | `http://sre-bootcamp-selection-challenge.cabf3yhjqvmq.us-east-1.rds.amazonaws.com/` |
+| port     | `3306`                                                                              |
+| DB       | `bootcamp_tht`                                                                      |
 <br />
 
 In the database three valid users with their passwords are stored:
@@ -94,7 +94,7 @@ curl -H 'Accept: application/json' -H "Authorization: Bearer ${TOKEN}" localhost
     - **[NodeJS](auth_api/node)**
 
 ### Docker
-  * Dockerize the application located in **[src](/src)**
+  * Dockerize the application located in **src**
   * Push it to a public image in DockerHub tagged as **`wize-<firstName>-<lastName>:latest`**
   * Application should run in port **`8000`**
 <br />
