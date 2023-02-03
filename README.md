@@ -48,7 +48,7 @@ Table **`users`**
 | -------- | -------------------- | ------------ | ------ |
 | admin    | `encrypted-password` | `F^S%QljSfV` | admin  |
 | noadmin  | `encrypted-password` | `KjvFUC#K*i` | editor |
-| bob      | `encrypted-password` | `F^S%QljSfV` | viewer |
+| bob      | `encrypted-password` | `ykptwoT=M(` | viewer |
 <br />
 
 Passwords in plain text:
