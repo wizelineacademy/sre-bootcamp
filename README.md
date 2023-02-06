@@ -36,7 +36,7 @@ You will have a read only database with these access:
 | engine   | `mysql`                                                                             |
 | user     | `secret`                                                                            |
 | password | `jOdznoyH6swQB9sTGdLUeeSrtejWkcw`                                                   |
-| endpoint | `sre-bootcamp-selection-challenge.cabf3yhjqvmq.us-east-1.rds.amazonaws.com/` |
+| endpoint | `sre-bootcamp-selection-challenge.cabf3yhjqvmq.us-east-1.rds.amazonaws.com` |
 | port     | `3306`                                                                              |
 | DB       | `bootcamp_tht`                                                                      |
 <br />
